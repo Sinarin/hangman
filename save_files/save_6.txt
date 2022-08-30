@@ -1,0 +1,1 @@
+{"guesses_remaining":6,"letters_words_guessed":["t"],"correct_letters":["_","_","_","t","_","_"],"word_to_guess":["g","e","n","t","l","y"]}
